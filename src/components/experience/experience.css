@@ -36,3 +36,37 @@
     gap: 1rem;
 }
 
+.experience__details-icon {
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+/* Medium Devices ------------- think iPad. RIP STEVE JOBS */
+@media screen and (max-width: 1024px) {
+    .experience__container { 
+        grid-template-columns: 1fr;
+    }
+
+    .experience__container > div {
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+
+    .experience__content {
+        padding: 1rem;
+    }
+}
+
+/* Small Devices ------------- think iPhone. RIP STEVE JOBS */
+@media screen and (max-width: 599.98px) {
+    .experience__container {
+        gap: 1rem;
+    }
+
+    .experience__container > div{
+        width: 100%;
+        padding: 2rem 1rem;
+    }
+
+}
