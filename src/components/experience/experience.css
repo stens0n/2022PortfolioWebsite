@@ -12,28 +12,23 @@
     transition: var(--transition);
 }
 
-.experience__container > div:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
-}
+
 
 
 .experience__container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
 }
 
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
+    row-gap: .88rem;
 }
 
 .experience__details {
     display: flex;
-    gap: 1rem;
+    gap: 1.2rem;
 }
 
 .experience__details-icon {

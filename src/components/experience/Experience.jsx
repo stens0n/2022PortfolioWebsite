@@ -5,90 +5,119 @@ import {BsPatchCheckFill} from 'react-icons/bs';
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Programming Skills</h5>
-      <h2>My Experience</h2>
+      <h5>Get To Know</h5>
+      <h2>Kyle's Platform</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>The Issues</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-              <h4>HTML</h4>
-              <small className="text-light">Experienced</small>
+              <a href='#union'>Unions</a>
               </div>
             </article>
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>CSS</h4>
-              <small className="text-light">Intermediate</small>
+              <a href='#green'>Green New Deal</a>
               </div>
             </article>
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>JavaScript</h4>
-              <small className="text-light">Experienced</small>
+              <a href='#housing'>Housing Justice</a>
               </div>
             </article>
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Bootstrap</h4>
-              <small className="text-light">Basic</small>
+              <a href='#health'>Medicare For All</a>
               </div>
             </article>
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Tailwind</h4>
-              <small className="text-light">Basic</small>
+              <a href='#econjustice'>Economic Justice</a>
               </div>
             </article>
+
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>React</h4>
-              <small className="text-light">Experienced</small>
+              <a href='#education'>Education For All</a>
               </div>
             </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#seniors'>Seniors</a>
+              </div>
+            </article>
+
           </div>
 
         </div>
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>The Issues</h3>
           <div className="experience__content">
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon"/>
-                <div>
-                <h4>Python</h4>
-                <small className="text-light">Experienced</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon"/>
-                <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Basic</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon"/>
-                <div>
-                <h4>Django</h4>
-                <small className="text-light">Experienced</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon"/>
-                <div>
-                <h4>Node</h4>
-                <small className="text-light">Basic</small>
-                </div>
-              </article>
+
+          <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#Equality4All'>Equality For All</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Gun Violence</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Criminal Justice</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Immigrant Rights</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Safe Haven Act</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Democracy Intergrity</a>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <a href='#'>Foreign Policy</a>
+              </div>
+            </article>
+
             </div>
 
         </div>

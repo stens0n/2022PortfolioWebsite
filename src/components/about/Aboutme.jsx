@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me-about.jpg';
+import ME from '../../assets/KDavis2.png';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {VscFolderLibrary} from 'react-icons/vsc';
@@ -9,7 +9,7 @@ const AboutMe = () => {
   return (
     <section id='about'>
         <h5>Get To Know</h5>
-        <h2>About Me</h2>
+        <h2>Kyle Davis</h2>
 
         <div className="container about__container">
           <div className="about__me">
@@ -22,39 +22,57 @@ const AboutMe = () => {
             <div className="about__cards">
               <article className="about__card">
                 <FaAward className="about__icon"/>
-                <h5>Experience</h5>
-                <small>3+ Years Working Experience</small>
+                <h5>Birthplace</h5>
+                <small>Cambridge, MA</small>
               </article>
 
               <article className="about__card">
                 <FiUsers className="about__icon"/>
-                <h5>Clients</h5>
-                <small>300+ Worldwide</small>
+                <h5>Funded By</h5>
+                <small>The Working Class - Not corporate PACs</small>
               </article>
-
-              <article className="about__card">
-                <VscFolderLibrary className="about__icon"/>
-                <h5>Projects</h5>
-                <small>80+ completed projects</small>
-              </article>
-              
             </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Similique itaque assumenda eveniet ea cumque suscipit perspiciatis, 
-              numquam distinctio deserunt voluptate reprehenderit. 
-              Sit, corrupti! Alias, blanditiis aliquid error non fugit maxime.
+                 Kyle Davis was born and raised in Massachusetts in a mixed family with two moms, two brothers and two 
+                 sisters as the middle child. 
+                 Kyle's family members shared with him the experiences of being part of different 
+                 oppressed minority groups including a grandmother who was an 
+                 immigrant from Curacao and  a Jewish grandfather 
+                 whose family members were killed in the Holocaust.  Kyle's 
+                 ancestry also includes Mexican, Indigenous and European heritage. 
+            </p>
+
+            <p>
+            Coming of age as a gay man in a society 
+                 with so much injustice sparked a passion for equality 
+                 very early on in life.
+            </p>
+
+            <p>
+            After high school, Kyle pursued a career as a recording artist and performer for several years while keeping day jobs such as waitering 
+                and delivering for Grubhub. Traveling around the country as a struggling artist and tipped-worker and talking to all different types 
+                of Americans along the way only furthered his belief in the need for radical change in the country.
+            </p>
+
+            <p>
+                 He became more active in 
+                organizing, marching and speaking out on social media. When Kyle witnessed the rise of leaders like Alexandria Ocasio Cortez 
+                and Cori Bush, he realized that not only was fundamental change possible but it could be achieved by regular working people. 
+                "This is exactly what the Senate needs; more members of the working class, more servers, more rideshare drivers. "
+            </p>
+
+            <p>
+                In his bid for state senate, Kyle won't be taking a dime of corporate PAC money and promises to fight for a bold 
+                platform that transforms life for the working class and upends systems of racism and oppression. 
+                The North Shore deserves nothing less.
             </p>
 
 
-            <a href='#contact'
+            <a href='https://secure.actblue.com/donate/kyledavis'
             className='btn btn-primary'>
-              Let's Talk
+              Donate
             </a>
-
-
-
           </div>
         </div>
     </section>
