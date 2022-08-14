@@ -440,7 +440,6 @@ const Services = () => {
             <p><BiCheck className="service__list-icon"/> Protect the rights and land of indigenous people and examine old treaties to compensate for violations.​</p>
             <br></br>
 
-
             <p><BiCheck className="service__list-icon"/> Enact laws to root out sexual harassment in the workplace and elsewhere.</p>
             <br></br>
 
@@ -475,32 +474,284 @@ const Services = () => {
         </article>
 
         <article className="service">
-          <div className="service__head">
-            <h3>Web Development</h3>
+          <div className="service__head" id='gun-violence'>
+            <h3>Gun Violence</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+              <p>It is a disgrace that mass shootings have become a frequent occurrence and that we must live in fear of being victimized by such an avoidable tragedy. We cannot allow the purposeful misinterpretation of the second amendment by some to justify inaction. Massachusetts has some of the best gun control laws but we can go further:
+</p>
             </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Raise the eligibility age for gun-ownership from 15 to 21.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Enact a gun buy-back program.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> In light of the conservative Supreme Court's rolling back on important policies, we need to commission a review of all state gun laws in an effort to protect the common sense gun legislation that we've enacted.</p>
+            <br></br>
           </ul>
 
         </article>
 
         <article className="service">
-          <div className="service__head">
-            <h3>Web Development</h3>
+          <div className="service__head" id='crim-justice-reform'>
+            <h3>Criminal Justice Reform</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+              <p>Our system of incarceration is the natural 
+                product of white supremacy and 
+                an institutional hatred for the poor. In 
+                Massachusetts, black and brown 
+                people make up 57% of our prison population despite
+                being only 18% of the population as a whole. Those in 
+                power know exactly how to achieve genuine public safety 
+                but they are choosing not to fix our broken system because it is 
+                profitable for the police state and the private prison industry. 
+                When we prioritize punishment and neglect over rehabilitation, 
+                we make society less safe and perpetuate the cycles of poverty 
+                that are responsible for crimes of desperation in the first place. 
+                Police are given too large a portion of our tax dollars at 
+                the expense of social programs as well as too many responsibilities 
+                that can be taken over by different social workers that are unarmed.</p>
             </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Reallocate part of the police budget towards education, mental health and other social programs to create real public safety.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Relieve the police of many of their current responsibilities including traffic control and issues relating to mental health and homelessness.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Deal with moving violations through the use of traffic cameras.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> End qualified immunity for public and government employees.​</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> End the use of police officers to direct traffic at construction sites.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> End the failed war on drugs which is used to harass and imprison black and brown people disproportionately for a victimless crime. We must legalize all drugs and invest in state operated and non-profit rehab centers for those that suffer from addiction.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ensure job opportunities to formerly incarcerated people and restore voting rights for the currently incarcerated.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Create safe and humane facilities for violent offenders as well as alternatives to prison for non-violent offenders.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Abolish cash bail.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> End the practice of  using the incarcerated for forced labor and instead pay minimum wage for voluntary labor.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Pass "No Cost Calls" so all incarcerated people can stay in touch with family and others on the outside.</p>
+            <br></br>
+            
           </ul>
 
         </article>
+
+        <article className="service">
+          <div className="service__head" id='imm-rights'>
+            <h3>Immigrant Rights</h3>
+          </div>
+
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon"/>
+              <p>We are a nation of immigrants and must fully embrace those searching for better opportunities.
+                 Mass migration is in part caused by our own imperialism and colonization of the global south, 
+                 our global advocacy for the failed war on drugs and our role in the climate crisis. 
+                 We in many ways created the horrific conditions around the world that 
+                 are causing people to flee their home countries, therefore it is our responsibility 
+                 to offer them a second chance at a dignified and prosperous life. The policies of 
+                 mass deportation and caging of children can not stand. </p>
+            </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> End all contracts with ICE and prohibit them from operating within our community by encouraging and promoting sanctuary cities, such as Salem's.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Demand more federal funds for housing, childcare, health care, job training and English classes.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ensure access to healthcare and other necessities to immigrants regardless of immigration status.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Mandate that state agencies provide services and information in all of the languages that are represented in our diverse communities.​</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ensure right to driver’s licenses regardless of immigration status.</p>
+            <br></br>
+            
+          </ul>
+
+        </article>
+
+        <article className="service">
+          <div className="service__head" id='safe-haven'>
+            <h3>Safe Haven Act</h3>
+          </div>
+
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon"/>
+              <p>Abortion care is healthcare. This far right extremist Supreme Court should have to answer for its role in an 
+                attempted overthrowing of our democracy before it is given the legitimacy to make decisions about our basic 
+                human rights. Women will continue to seek the care that they need but will now be less safe. 
+                This will affect poor women and women of color the most.</p>
+            </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Provide care to women and birthing people across the country particularly in those 24 states with trigger laws currently going into effect that interfere with their bodily autonomy.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Provide transportation to low-income people from their states to Massachusetts to access these services.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Provide funding to those without the means to pay for it themselves.</p>
+            <br></br>
+            
+          </ul>
+
+        </article>
+
+        <article className="service">
+          <div className="service__head" id='str-democracy'>
+            <h3>Strengthening Democracy</h3>
+          </div>
+
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon"/>
+              <p>It has long been the case that our leaders represent the corporations and the ultra-wealthy, 
+                they do not represent us. Through unlimited campaign contributions, groups like the NRA and 
+                pharmaceutical companies are effectively able to bribe politicians to pass legislation favorable to 
+                their interests. This practice is completely legal and absolutely should not be.  We must reform our 
+                system so that the will of the people is reflected in the legislation that is passed. 
+                I will not be taking a single dollar from corporate PAC’s or special interests in this 
+                campaign and will be entirely funded by small dollar donors.
+                
+                <br></br>
+                <br></br>
+                Massachusetts in particular has a significant lack of transparency about voting records 
+                at the State House level.  Additonally, in light of the recent Danvers hockey team allegations 
+                involving racism, anti-semitism and homophobia, it is apparent that we have an accountability problem 
+                and that the culture of protecting authority figures over vulnerable students needs to end.
+                
+                
+                </p>
+            </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ban corporate PACS in Massachusetts.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Establish public financing of all elections.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ban government officials from serving on corporate boards or investing in stocks.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Mandate reasonable amounts of voting locations per district.​</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Make Mail-In-Voting available and easily accessible in all elections.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Enact Rank Choice Voting and give third parties access to public funding, debates and ballots.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Make voting records of State Legislators readily accessible on a public website.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Establish a commision to investigate any allegations of bigotry, etc. in any Massachusetts public school and deal with those allegations in a very transparent process.</p>
+            <br></br>
+          </ul>
+
+        </article>
+
+
+        <article className="service">
+          <div className="service__head" id='for-policy'>
+            <h3>Foreign Policy</h3>
+          </div>
+
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon"/>
+              <p>War is a racket - plain and simple. We are spending nearly $1 Trillion a year on 
+                illegal and unjustified wars that were based on lies. Our actions overseas 
+                have proved over and over again that regime change does not work. 
+                We have only created more instability and in the process, we have 
+                killed over a million innocent people in just the last few decades. Although 
+                these decisions are made at a federal level, there are steps we can take at a 
+                state level to cultivate peace and diplomacy.</p>
+            </li>
+            <br></br>
+            <br></br>
+            <strong>
+              Together we will: 
+            </strong>
+            <br></br>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Petition the federal government to end the wars and restore the ability to declare war with congress where it belongs.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ban military recruitment in schools statewide.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Ban defense contractors like Raytheon from operating within the state and from donating to political candidates for office.</p>
+            <br></br>
+
+            <p><BiCheck className="service__list-icon"/> Fully Fund Veterans Services in Massachusetts to finally provide care and benefits to veterans in a serious way.</p>
+            <br></br>
+          </ul>
+
+        </article>
+
+
 
         
       </div>

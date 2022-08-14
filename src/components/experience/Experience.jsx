@@ -79,42 +79,42 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Gun Violence</a>
+              <a href='#gun-violence'>Gun Violence</a>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Criminal Justice</a>
+              <a href='#crim-justice-reform'>Criminal Justice</a>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Immigrant Rights</a>
+              <a href='#imm-rights'>Immigrant Rights</a>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Safe Haven Act</a>
+              <a href='#safe-haven'>Safe Haven Act</a>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Democracy Intergrity</a>
+              <a href='#str-democracy'>Democracy Intergrity</a>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <a href='#'>Foreign Policy</a>
+              <a href='#for-policy'>Foreign Policy</a>
               </div>
             </article>
 
