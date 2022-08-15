@@ -70,7 +70,14 @@
     color: var(--color-light);
 }
 
-
+p {
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
 
 
 

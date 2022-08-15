@@ -41,22 +41,22 @@ const AboutMe = () => {
                  immigrant from Curacao and  a Jewish grandfather 
                  whose family members were killed in the Holocaust.  Kyle's 
                  ancestry also includes Mexican, Indigenous and European heritage. 
-            </p>
 
-            <p>
-            Coming of age as a gay man in a society 
+                 <br></br>
+                 <br></br>
+                 Coming of age as a gay man in a society 
                  with so much injustice sparked a passion for equality 
                  very early on in life.
-            </p>
 
-            <p>
-            After high school, Kyle pursued a career as a recording artist and performer for several years while keeping day jobs such as waitering 
+                 <br></br>
+                 <br></br>
+                 After high school, Kyle pursued a career as a recording artist and performer for several years while keeping day jobs such as waitering 
                 and delivering for Grubhub. Traveling around the country as a struggling artist and tipped-worker and talking to all different types 
                 of Americans along the way only furthered his belief in the need for radical change in the country.
-            </p>
 
-            <p>
-                 He became more active in 
+                <br></br>
+                <br></br>
+                He became more active in 
                 organizing, marching and speaking out on social media. When Kyle witnessed the rise of leaders like Alexandria Ocasio Cortez 
                 and Cori Bush, he realized that not only was fundamental change possible but it could be achieved by regular working people. 
                 "This is exactly what the Senate needs; more members of the working class, more servers, more rideshare drivers. "

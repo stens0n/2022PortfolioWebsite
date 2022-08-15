@@ -18,7 +18,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-            <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>The decline in union power over the past 40 years 
                 has dramatically increased income inequality and has 
                 allowed corporate greed to flourish. Union membership 
@@ -83,7 +83,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-            <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>The climate crisis is the true test of our time. Scientists 
                 have determined that if we do not act radically in the next 
                 8 years, the effects of climate change will be irreversible 
@@ -147,7 +147,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>We believe that healthcare is a human right. For too long, 
                 we have allowed insurance companies to get between us and our 
                 doctors. They profit from denying care to those that need it 
@@ -195,7 +195,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>Housing is a human right. The fact that over 18,000 people 
                 are currently experiencing homelessness in Massachusetts and 
                 a quarter of residents are paying over half of their income 
@@ -235,7 +235,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>The game is rigged. Wall street profits and stock prices soar 
                 while the our workers are underpaid, overworked and downright 
                 abused. It is not moral or sustainable to have a system where 
@@ -305,7 +305,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>Education is supposed to be the great equalizer but in this 
                 state, like most others, we mostly fund schools at the local 
                 level through property taxes so the quality of education that 
@@ -366,7 +366,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>When we say "More For The North Shore", 
                 seniors are a critical part of that vision. 
                 We are coming up short in terms of care for 
@@ -413,7 +413,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>Americans of every race, gender, sexuality and religion 
                 must be treated equal under the 
                 law and significant regulations and 
@@ -480,7 +480,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>It is a disgrace that mass shootings have become a frequent occurrence and that we must live in fear of being victimized by such an avoidable tragedy. We cannot allow the purposeful misinterpretation of the second amendment by some to justify inaction. Massachusetts has some of the best gun control laws but we can go further:
 </p>
             </li>
@@ -511,7 +511,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>Our system of incarceration is the natural 
                 product of white supremacy and 
                 an institutional hatred for the poor. In 
@@ -580,7 +580,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>We are a nation of immigrants and must fully embrace those searching for better opportunities.
                  Mass migration is in part caused by our own imperialism and colonization of the global south, 
                  our global advocacy for the failed war on drugs and our role in the climate crisis. 
@@ -623,7 +623,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>Abortion care is healthcare. This far right extremist Supreme Court should have to answer for its role in an 
                 attempted overthrowing of our democracy before it is given the legitimacy to make decisions about our basic 
                 human rights. Women will continue to seek the care that they need but will now be less safe. 
@@ -657,7 +657,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>It has long been the case that our leaders represent the corporations and the ultra-wealthy, 
                 they do not represent us. Through unlimited campaign contributions, groups like the NRA and 
                 pharmaceutical companies are effectively able to bribe politicians to pass legislation favorable to 
@@ -719,7 +719,7 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service__list-icon"/>
+            <br></br>
               <p>War is a racket - plain and simple. We are spending nearly $1 Trillion a year on 
                 illegal and unjustified wars that were based on lies. Our actions overseas 
                 have proved over and over again that regime change does not work. 

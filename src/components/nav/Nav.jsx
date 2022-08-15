@@ -2,10 +2,11 @@ import React from 'react';
 import './nav.css';
 import {AiOutlineHome} from 'react-icons/ai';
 import {FiUserCheck} from 'react-icons/fi';
-import {AiOutlineDotChart} from 'react-icons/ai';
+import {HiOutlineLightBulb} from 'react-icons/hi';
 import {RiHammerLine} from 'react-icons/ri';
 import {MdOutlineMarkEmailRead} from 'react-icons/md';
 import { useState } from 'react';
+import {MdOutlinePeopleAlt} from 'react-icons/md'
 
 
 const Nav = () => {
@@ -22,11 +23,11 @@ const Nav = () => {
       
       <a href="#experience"
       onClick={() => setActiveNav('#experience')}
-      className={activeNav === '#experience' ? 'active' : ''}> <AiOutlineDotChart /> </a>
+      className={activeNav === '#experience' ? 'active' : ''}> <HiOutlineLightBulb /> </a>
       
-      <a href="#services"
-      onClick={() => setActiveNav('#services')}
-      className={activeNav === '#services' ? 'active' : ''}> <RiHammerLine /> </a>
+      <a href="#testimonials"
+      onClick={() => setActiveNav('#testimonials')}
+      className={activeNav === '#testimonials' ? 'active' : ''}> <MdOutlinePeopleAlt /> </a>
       
       <a href="#contact"
       onClick={() => setActiveNav('#contact')}

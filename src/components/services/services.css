@@ -1,6 +1,6 @@
 .serivces__container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 8.8rem;
 }
 
@@ -44,11 +44,15 @@
     font-size: 1.11rem;
 }
 
+.strong {
+    color: var(--color-primary-variant);
+}
+
 
 /* Medium Devices ------------- think iPad. RIP STEVE JOBS */
 @media screen and (max-width: 1024px) {
     .serivces__container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr ;
         gap: 2.2rem;
     }
 
